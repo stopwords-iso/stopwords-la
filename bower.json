@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-la",
+  "description": "The most comprehensive collection of stopwords for the latin language.",
+  "keywords": [
+    "latin",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-la",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-la.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
